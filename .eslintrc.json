@@ -1,0 +1,16 @@
+{
+  "parserOptions": {
+    "project": "./tsconfig.json",
+    "sourceType": "module"
+  },
+  "extends": [
+    "react-app"
+  ],
+  "rules": {
+    "no-shadow": 0,
+    "import/prefer-default-export": 0,
+    "import/extensions": 0,
+    "max-len": 0,
+    "max-classes-per-file": 0
+  }
+}
